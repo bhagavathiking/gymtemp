@@ -1,0 +1,235 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    margin: 10px;
+}
+.navsub{
+    display: flex;
+    padding-right: 70px;
+}
+li{
+    padding-left: 40px;
+}
+ul{
+    list-style-type: none;
+}
+.aa{
+    text-decoration: none;
+    color: white;
+    font-size: large;
+}
+.aa:hover{
+    color: crimson;
+}
+.main-name{
+    padding: 150px;
+    display: inline-block;
+    text-align: center;
+    
+    
+}
+.fit{
+    font-size: 280%;
+    padding-bottom: 10px;
+}
+.tra{
+    font-size: 380%;
+    padding-bottom: 10px;
+}
+.na{
+    font-size: 480%;
+    padding-bottom: 20px;
+}
+.box{
+    border-width: 1px;
+    border-color: white;
+    border-style: solid;
+    width: 175px;
+    height: 50px;
+    background: none;
+    color: white;
+}
+.box:hover{
+    background-color: white;
+    color: black;
+}
+.choose{
+    margin-top: 30px;
+    padding-bottom: 2px;
+    background: url(images/trainer-bg.jpg);
+}
+.why{
+    padding: 25px;
+}
+.imgg{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 150px;
+    padding-left: 35px;
+}
+.text{
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+}
+.para{
+    margin: 20px;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+
+}
+.helth{
+    display: inline-block;
+    text-align: center;
+    background: url(images/healthy-bg.jpg);
+    padding: 150px;
+}
+.heal{
+    padding-bottom: 80px ;
+}
+.read{
+    margin: 50px;
+    border-width: 1px;
+    border-color: white;
+    border-style: solid;
+    width: 175px;
+    height: 50px;
+    background: none;
+    color: white;   
+}
+.read:hover{
+    background-color: white;
+    color: black;
+}
+.read{
+    text-decoration: none;
+    color: white;
+    font-size: large;
+    
+   
+}
+.our{
+    background: url(images/trainer-bg.jpg);
+}
+.staff{
+    padding: 80px;
+}
+.staff:hover{
+    color: brown;
+}
+.nname{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    bottom: 15px;
+    
+  }
+  .imgimg{
+    
+    display: flex;
+    justify-content: space-around;
+  }
+  .imagg{
+    
+    border-radius: 10px;
+    width: 250px;
+    height: 253px;
+  }
+  .imagess{
+    display: flex;
+    justify-content: space-around;
+    
+  }
+  .face{
+    padding-left:18px ;
+  }
+  .bbox-1{
+    background-color: white;
+    border-radius: 20px;
+    padding: 5px;
+    position: relative;
+    bottom: 10px;
+  }
+  
+
+.contact-in{
+
+    background: url(images/trainer-bg.jpg);
+    display: flex;
+    padding: 54px;
+    padding-top: 150px;
+}
+   
+.con{
+    height: 650px;
+    position: relative;
+    right: 30px;
+}
+.innput{
+    padding: 25px;
+}
+.fonn{
+    position: relative;
+    bottom: 20px;
+    left: 20px;
+    font-size:xx-large
+}
+.mail{
+    padding: 25px;
+    margin: 12px;
+    padding-right: 150px;
+}
+.mails{
+    padding: 25px;
+    margin: 12px;
+    padding-right: 150px;
+}
+.sum{
+    padding: 12px;
+    margin:  12px;
+    position: relative;
+    
+    background-color:red;
+    border-color: brown;
+    border-width: 1px;
+    border-style: solid;
+    width: 100px;
+    height: 18px;
+
+}
+.ten{
+    padding-top: 20px;
+    padding-bottom: 115px;
+    
+}
+.child{
+    display: flex;
+    justify-content: space-evenly;
+}
+.cell{
+    padding-bottom: 20px;
+}
+.vbg{
+    position: relative;
+    right: 40px;
+    top: 10px;
+}
+.vbg:hover{
+    color: brown;
+}
+.console{
+    margin-top: 120px;
+    background: url(images/trainer-bg.jpg);
+    padding: 50px;
+}   
